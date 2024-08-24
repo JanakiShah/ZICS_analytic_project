@@ -9,6 +9,13 @@ Data from both a prospective birth cohort and cross-sectional study were combine
 ## Results
 By the end of the survey period, data had been collected from 596 caregivers and 605 infants. Nearly three quarters of caregivers did not attain an education beyond secondary school and a significant proportion of infants (20.2%) had low birth weight. While 90.2% of mothers reported some form of breastfeeding by six months, a huge percentage of mothers (98.2%) reported sharing a sleep surface with their infants.
 
+Table 1A shows the demographic characteristics of caregivers. By the end of the study period, data had been collected from 596 caregivers. Majority of the mothers were between the ages of 25-34 years. Most mothers were married, 516/596 (86.6%) and nearly three-quarters of them did not attain an education beyond secondary school. It is also apparent from this table that a high proportion of mothers reported neither smoking nor taking alcohol during pregnancy, 99.3% and 87.2% respectively.
+
+Table 1B illustrates the demographic characteristics of infants who participated in the study. Of the 605 infants included in this study, 50.6% (306/605) were male and 49.4% (299/605) were female. With the use of modern ultrasound dating, many of the infants were born at term and 10.7% (65/605) were born preterm. Further analysis showed 20.2% (122/605) of infants were born with low birth weight and only one was born with a major abnormality. In our cohort, 43.1% of the mothers exclusively breastfed their infants to six months and 90.2% used any other forms of breastfeeding by six months.
+
+Table 2 provides the breakdown of SIDS risk factors according to infant sleep practice and environment.  In our survey, 98.2% (593/605) of the mothers reported sharing a sleep surface with their babies and only a smaller number of parents (1.5%) practiced room sharing with their infants. Interestingly, over three-quarters of mothers placed their babies on the side to sleep and a very small number of mothers [3.5%, (21/605)] stated their infants slept in supine position. The next common sleeping position for infants was prone position [18%, (109/605)]. 
+
+
 ## Conclusion
 The results of this study show that both modifiable and non-modifiable risk factors of SIDS are highly prevalent in low socio-economic settings in Zambia. Public health strategies to prevent SIDS will need to be innovative in how to address risks such as bedsharing in settings where there is lack of space. Additionally, future public health communication will need to be clearer in areas which attract contrasting views such as low birth weight and breastfeeding in SIDS.
 
