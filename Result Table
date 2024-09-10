@@ -1,0 +1,81 @@
+# ZICS SIDS descriptive tables
+
+## Table 1a: Demographic Characteristics of caregivers
+
+
+|      Question                                                            |      Response                                              |      Overall                               |   |   |
+|--------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------|---|---|
+|     Total N                                                              |                                                            |     596                                    |   |   |
+|     How old are you?                                                     |     N    Mean (Std Dev)    Min, 25th, Median, 75th, Max    |     596    28 (6)    16, 24, 28, 32, 45    |   |   |
+|     Categorical age                                                      |     1: 17-24                                               |     172 (28.9%)                            |   |   |
+|                                                                          |     2: 25-34                                               |     319 (53.5%)                            |   |   |
+|                                                                          |     3: 35+                                                 |     105 (17.6%)                            |   |   |
+|     2-category marital status                                            |     1: Married                                             |     516 (86.6%)                            |   |   |
+|                                                                          |     2: Not married                                         |     79 (13.3%)                             |   |   |
+|                                                                          |     5: No answer                                           |     1 (0.2%)                               |   |   |
+|     What was the highest grade you attended?                             |     0: No formal education                                 |     13 (2.2%)                              |   |   |
+|                                                                          |     1: Primary                                             |     145 (24.3%)                            |   |   |
+|                                                                          |     2: Secondary                                           |     400 (67.1%)                            |   |   |
+|                                                                          |     3: College (and beyond)                                |     38 (6.4%)                              |   |   |
+|     Do you smoke cigarettes or use other   forms of tobacco?             |     0: No                                                  |     591 (99.3%)                            |   |   |
+|                                                                          |     1: Yes, including during this pregnancy                |     2 (0.3%)                               |   |   |
+|                                                                          |     2: Yes, but stopped in pregnancy                       |     2 (0.3%)                               |   |   |
+|     Have you drunk any alcohol since you   learned you were pregnant?    |     0: No                                                  |     520 (87.2%)                            |   |   |
+|                                                                          |     1: Yes                                                 |     75 (12.6%)                             |   |   |
+|                                                                          |     2: No answer                                           |     1 (0.2%)                               |   |   |
+
+
+## Table 1b: Demographic characteristics of infants
+
+|      Question                            |      Response                               |      Overall       |
+|------------------------------------------|---------------------------------------------|--------------------|
+|     Total N                              |                                             |     605            |
+|     Sex of baby                          |     1: Male                                 |     306 (50.6%)    |
+|                                          |     2: Female                               |     299 (49.4%)    |
+|     Birthweight (categorical)            |     1: > 2500g                              |     478 (79.0%)    |
+|                                          |     2: LBW (>1500g - <=2500g                |     122 (20.2%)    |
+|                                          |     3: VLBW (>1000g - <=1500g               |     5 (0.8%)       |
+|     Gestational_week                     |     1: Preterm (28-<34 weeks)               |     11 (1.8%)      |
+|                                          |     2: Late Preterm (34< 37 weeks)          |     54 (8.9%)      |
+|                                          |     3: Term(37 completed weeks)             |     540 (89.3%)    |
+|     Length of exclusive breastfeeding    |     0: Labor                                |     5 (0.8%)       |
+|                                          |     1: Day 6                                |     16 (2.6%)      |
+|                                          |     2: Week 6                               |     22 (3.6%)      |
+|                                          |     3: Week 10                              |     42 (6.9%)      |
+|                                          |     4: Week 14                              |     105 (17.4%)    |
+|                                          |     5: Week 20                              |     154 (25.5%)    |
+|                                          |     6: Week 24                              |     261 (43.1%)    |
+|     Length of any breastfeeding          |     0: Labor                                |     5 (0.8%)       |
+|                                          |     1: Day 6                                |     5 (0.8%)       |
+|                                          |     2: Week 6                               |     4 (0.7%)       |
+|                                          |     3: Week 10                              |     4 (0.7%)       |
+|                                          |     4: Week 14                              |     18 (3.0%)      |
+|                                          |     5: Week 20                              |     23 (3.8%)      |
+|                                          |     6: Week 24                              |     546 (90.2%)    |
+|     Major birth anomalies?               |     0: No                                   |     604 (99.8%)    |
+|                                          |     1: Yes                                  |     1 (0.2%)       |
+|     Twin                                 |     0: No                                   |     586 (96.9%)    |
+|                                          |     1: Yes                                  |     19 (3.1%)      |
+|     Immunizations / Breastfeeding        |     1: Optimally Immunized + EBF            |     600 (99.2%)    |
+|                                          |     3: Optimally Immunized + Mixed/None     |     4 (0.7%)       |
+|                                          |     7: Unknown Immunization or BF Status    |     1 (0.2%)       |
+
+## Table 2: Risk Factors for SIDS
+
+|      Question                                                                                                                                                                     |      Response                                                                      |      Overall                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------|
+|     Total N                                                                                                                                                                       |                                                                                    |     605                                           |
+|     Child age in days at post-natal visit                                                                                                                                         |     N    Mean (Std Dev)    Min, 25th, Median, 75th, Max                            |     605    148 (20)    125, 140, 143, 150, 371    |
+|     Over the last two weeks, in what position   have you USUALLY placed your baby to sleep?                                                                                       |     1: On the infants side                                                         |     475 (78.5%)                                   |
+|                                                                                                                                                                                   |     2: On the infants stomach                                                      |     109 (18.0%)                                   |
+|                                                                                                                                                                                   |     3: On the infants back                                                         |     21 (3.5%)                                     |
+|     Where does baby USUALLY sleep?                                                                                                                                                |     1: In a parents (or other adults) room on   his/her own mattress or pad        |     9 (1.5%)                                      |
+|                                                                                                                                                                                   |     2: In a parents (or other adults) bed   with adult(s)                          |     593 (98.2%)                                   |
+|                                                                                                                                                                                   |     3: In another childs room on his/her own mattress or pad                       |     2 (0.3%)                                      |
+|     Over the last two weeks, what type of   outfit did you USUALLY put your baby in for sleeping? Note: Key is to assess   how many layers of clothes or bundling is occurring    |     1: Just a nappy (photo 1)                                                      |     54 (9.0%)                                     |
+|                                                                                                                                                                                   |     2: One light layer of clothes (photo 2)                                        |     102 (16.9%)                                   |
+|                                                                                                                                                                                   |     3: Two layers of clothes (for example   with romper) (photo 3)                 |     279 (46.3%)                                   |
+|                                                                                                                                                                                   |     4: Two layers of clothes plus baby   tightly swaddled in chitenge (photo 4)    |     53 (8.8%)                                     |
+|                                                                                                                                                                                   |     5: Multiple layers including a blanket or shawl (photo 5)                      |     115 (19.1%)                                   |
+
+
