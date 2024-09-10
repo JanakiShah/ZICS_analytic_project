@@ -1,32 +1,31 @@
-# ZICS SIDS descriptive tables
+ ZICS SIDS descriptive tables
 
-## Table 1a: Demographic Characteristics of caregivers
+Table 1a: Demographic Characteristics of caregivers
+|--------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
+|      Question                                                            |      Response                                              |      Overall                               |   
+|--------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
+|     Total N                                                              |                                                            |     596                                    |  
+|     How old are you?                                                     |     N    Mean (Std Dev)    Min, 25th, Median, 75th, Max    |     596    28 (6)    16, 24, 28, 32, 45    |  
+|     Categorical age                                                      |     1: 17-24                                               |     172 (28.9%)                            |  
+|                                                                          |     2: 25-34                                               |     319 (53.5%)                            | 
+|                                                                          |     3: 35+                                                 |     105 (17.6%)                            |  
+|     2-category marital status                                            |     1: Married                                             |     516 (86.6%)                            |   
+|                                                                          |     2: Not married                                         |     79 (13.3%)                             |   
+|                                                                          |     5: No answer                                           |     1 (0.2%)                               |   
+|     What was the highest grade you attended?                             |     0: No formal education                                 |     13 (2.2%)                              | 
+|                                                                          |     1: Primary                                             |     145 (24.3%)                            |   
+|                                                                          |     2: Secondary                                           |     400 (67.1%)                            |  
+|                                                                          |     3: College (and beyond)                                |     38 (6.4%)                              |  
+|     Do you smoke cigarettes or use other   forms of tobacco?             |     0: No                                                  |     591 (99.3%)                            |
+|                                                                          |     1: Yes, including during this pregnancy                |     2 (0.3%)                               |  
+|                                                                          |     2: Yes, but stopped in pregnancy                       |     2 (0.3%)                               | 
+|     Have you drunk any alcohol since you   learned you were pregnant?    |     0: No                                                  |     520 (87.2%)                            |  
+|                                                                          |     1: Yes                                                 |     75 (12.6%)                             |  
+|                                                                          |     2: No answer                                           |     1 (0.2%)                               |  
+|--------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
 
-
-|      Question                                                            |      Response                                              |      Overall                               |   |   |
-|--------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------|---|---|
-|     Total N                                                              |                                                            |     596                                    |   |   |
-|     How old are you?                                                     |     N    Mean (Std Dev)    Min, 25th, Median, 75th, Max    |     596    28 (6)    16, 24, 28, 32, 45    |   |   |
-|     Categorical age                                                      |     1: 17-24                                               |     172 (28.9%)                            |   |   |
-|                                                                          |     2: 25-34                                               |     319 (53.5%)                            |   |   |
-|                                                                          |     3: 35+                                                 |     105 (17.6%)                            |   |   |
-|     2-category marital status                                            |     1: Married                                             |     516 (86.6%)                            |   |   |
-|                                                                          |     2: Not married                                         |     79 (13.3%)                             |   |   |
-|                                                                          |     5: No answer                                           |     1 (0.2%)                               |   |   |
-|     What was the highest grade you attended?                             |     0: No formal education                                 |     13 (2.2%)                              |   |   |
-|                                                                          |     1: Primary                                             |     145 (24.3%)                            |   |   |
-|                                                                          |     2: Secondary                                           |     400 (67.1%)                            |   |   |
-|                                                                          |     3: College (and beyond)                                |     38 (6.4%)                              |   |   |
-|     Do you smoke cigarettes or use other   forms of tobacco?             |     0: No                                                  |     591 (99.3%)                            |   |   |
-|                                                                          |     1: Yes, including during this pregnancy                |     2 (0.3%)                               |   |   |
-|                                                                          |     2: Yes, but stopped in pregnancy                       |     2 (0.3%)                               |   |   |
-|     Have you drunk any alcohol since you   learned you were pregnant?    |     0: No                                                  |     520 (87.2%)                            |   |   |
-|                                                                          |     1: Yes                                                 |     75 (12.6%)                             |   |   |
-|                                                                          |     2: No answer                                           |     1 (0.2%)                               |   |   |
-
-
-## Table 1b: Demographic characteristics of infants
-
+Table 1b: Demographic characteristics of infants
+|--------------------------------------------------------------------------|----------------------------------|
 |      Question                            |      Response                               |      Overall       |
 |------------------------------------------|---------------------------------------------|--------------------|
 |     Total N                              |                                             |     605            |
@@ -59,9 +58,11 @@
 |     Immunizations / Breastfeeding        |     1: Optimally Immunized + EBF            |     600 (99.2%)    |
 |                                          |     3: Optimally Immunized + Mixed/None     |     4 (0.7%)       |
 |                                          |     7: Unknown Immunization or BF Status    |     1 (0.2%)       |
+|------------------------------------------|---------------------------------------------|--------------------|
 
-## Table 2: Risk Factors for SIDS
 
+Table 2: Risk Factors for SIDS
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------|
 |      Question                                                                                                                                                                     |      Response                                                                      |      Overall                                      |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------|
 |     Total N                                                                                                                                                                       |                                                                                    |     605                                           |
@@ -77,5 +78,5 @@
 |                                                                                                                                                                                   |     3: Two layers of clothes (for example   with romper) (photo 3)                 |     279 (46.3%)                                   |
 |                                                                                                                                                                                   |     4: Two layers of clothes plus baby   tightly swaddled in chitenge (photo 4)    |     53 (8.8%)                                     |
 |                                                                                                                                                                                   |     5: Multiple layers including a blanket or shawl (photo 5)                      |     115 (19.1%)                                   |
-
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------|
 
